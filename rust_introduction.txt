@@ -11,4 +11,8 @@ fact = Data table and dimension = lookup tables
 fact table: It contains numeric values or metrics used for summarization like (sales, orders, transaction, pageviews, etc)
 dimension table: It contains descriptive data or attributes used for filtering or grouping (products, customers, dates, stores, etc)
 
+PRIMARY KEY AND FOREIGN KEY
+fact tables has foreign keys which are connected too dimension tables which has the primary key columns 
+
+
 - RUSTINDARKNESS
