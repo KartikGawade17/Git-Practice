@@ -7,4 +7,8 @@ like to eliminate the redundant data by decresing the tables size.
 minimized the errors and anamolies.
 simplify queries
 
+fact = Data table and dimension = lookup tables
+fact table: It contains numeric values or metrics used for summarization like (sales, orders, transaction, pageviews, etc)
+dimension table: It contains descriptive data or attributes used for filtering or grouping (products, customers, dates, stores, etc)
+
 - RUSTINDARKNESS
