@@ -1,2 +1,1 @@
-Hey! My name is kartik and this is my first introduction file that i am creating from my local computer to 
-github with my partner rustin cohle.
+Hey! My name is kartik and i am partnering up with RUST.
