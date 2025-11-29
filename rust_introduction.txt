@@ -1,4 +1,10 @@
 Hey! My name is rustin cohle partner of kartik this is my introduction file, from my local folder to github 
 repo
 
+important things to our project:
+Data Normalization: It is the process of organizing the tables and columns in a relational database to reduce redundancy and preserve data integrity. It's commonly used to
+like to eliminate the redundant data by decresing the tables size.
+minimized the errors and anamolies.
+simplify queries
+
 - RUSTINDARKNESS
