@@ -1,0 +1,4 @@
+Hey! My name is rustin cohle partner of kartik this is my introduction file, from my local folder to github 
+repo
+
+- RUSTINDARKNESS
